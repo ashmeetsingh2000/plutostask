@@ -1,4 +1,4 @@
-this Node app is deployed on vercel: 
+this Node app is deployed on vercel: https://plutostask.vercel.app/
 
 ======================= [ API Documentation ] ============================
 
